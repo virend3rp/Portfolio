@@ -1,8 +1,6 @@
 "use client";
 import SparkleCursor from "@/components/SparkleCursor";
 import Link from "next/link";
-import { useState } from "react";
-
 const ContactPage = () => {
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center py-10 px-5">

@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import Image from "next/image";
 import Link from "next/link";
 import { FaYoutube } from "react-icons/fa";
 import FloatingProfile from "@/components/FloatingImage";
@@ -20,7 +19,7 @@ const About = () => {
         <div className="mt-8 md:mt-0 md:ml-10 max-w-lg">
           <h1 className="text-4xl font-bold mb-4">About Me</h1>
           <p className="text-lg leading-relaxed">
-            Hey! I’m a passionate <strong>developer</strong> with a love for building interactive and efficient applications.
+            Hey! II&apos;m a a passionate <strong>developer</strong> with a love for building interactive and efficient applications.
             From full-stack web development to crafting scalable solutions, I enjoy turning ideas into reality.
             With experience in <strong>Next.js, MERN stack, SQL, and cloud technologies</strong>, I thrive on solving complex
             problems and continuously learning new skills.When I am not learning you can find me creating content on my youtube channel linked below
