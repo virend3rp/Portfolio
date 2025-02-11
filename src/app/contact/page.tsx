@@ -4,25 +4,6 @@ import Link from "next/link";
 import { useState } from "react";
 
 const ContactPage = () => {
-  const [formData, setFormData] = useState({
-    name: "",
-    email: "",
-    message: "",
-  });
-
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    const { name, value } = e.target;
-    setFormData({ ...formData, [name]: value });
-  };
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Handle form submission (e.g., send to an API)
-    alert("Message sent!");
-    // Reset form after submission
-    setFormData({ name: "", email: "", message: "" });
-  };
-
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center py-10 px-5">
       <SparkleCursor/>
