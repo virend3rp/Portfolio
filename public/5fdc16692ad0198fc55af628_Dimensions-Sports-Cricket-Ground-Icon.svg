@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="750px"
+	 height="750px" viewBox="0 0 750 750" style="enable-background:new 0 0 750 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E74C3C;}
+	.st2{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{opacity:0.98;}
+	.st4{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0234,5.039;}
+	.st6{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.5827,4.3045;}
+	.st7{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.819,4.6983;}
+	.st8{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4.9782,6.9694;}
+	.st10{fill:none;stroke:#E74C3C;stroke-width:3.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st11{fill:none;stroke:#E74C3C;stroke-width:3.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.0678,7.0949;}
+	.st12{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.1966,7.2752;}
+	.st13{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4.9886,6.9841;}
+	.st14{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st15{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9979,4.9965;}
+	.st16{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.857,6.7498;}
+	.st17{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4.0324,7.0568;}
+	.st18{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9886,4.981;}
+	.st19{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9657,4.9428;}
+	.st20{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.7832,4.6386;}
+	.st21{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.927,4.8783;}
+	.st22{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0755,5.1259;}
+	.st23{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0048,5.008;}
+	.st24{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9911,4.9851;}
+	.st25{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#E74C3C;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9848,4.9747;}
+	.st28{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.0771,5.1285;}
+	.st29{fill:none;stroke:#E74C3C;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.006,5.0101;}
+	.st30{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.7714,2.9524;}
+	.st31{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.969,4.9484;}
+	.st32{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.873,4.7883;}
+	.st33{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.766,2.9433;}
+	.st34{fill:none;stroke:#E74C3C;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9671,4.9452;}
+	.st35{fill:none;stroke:#E74C3C;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st36{fill:none;stroke:#E74C3C;stroke-width:3.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.0075,7.0105;}
+	.st37{fill:none;stroke:#E74C3C;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st38{fill:none;stroke:#E74C3C;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="FILL-BACKGROUND">
+	<rect class="st0" width="750" height="750"/>
+</g>
+<g id="N-TEXT">
+</g>
+<g id="N-DIMENSIONS">
+</g>
+<g id="_x32_D_x24_AG-DIAGRAM">
+</g>
+<g id="_x32_D_x24_AG-DETAILS-DIAGRAM">
+	<g id="POLYLINE_682_">
+		<rect x="370.13" y="328.07" class="st26" width="9.73" height="93.86"/>
+	</g>
+</g>
+<g id="_x32_D_x24_AG-GUIDES">
+</g>
+<g id="_x32_D_x24_AG-SPORTS">
+	<g id="POLYLINE_303_">
+		<g>
+			<path class="st36" d="M476,335.34v79.32c-0.02,0.85-0.02,2.65-0.06,3.51c-0.12,3.41-0.44,7.09-0.91,10.48
+				c-1.45,10.39-4.56,20.63-9.14,30.07c-5.59,11.55-13.46,22.07-22.96,30.7c-27.39,24.94-66.55,32.86-101.47,20.53
+				c-27.89-9.77-50.34-31.65-60.84-59.27c-3.74-9.8-5.95-20.27-6.5-30.75c-0.07-0.88-0.09-2.63-0.12-3.5c0,0-0.02-1.75-0.02-1.75
+				v-79.32c0.01-2.19,0.08-4.82,0.24-7.01c0.44-6.36,1.52-12.83,3.16-18.99c15.49-57.63,76.79-89.35,132.79-68.68
+				C449.7,255.33,476.02,293.18,476,335.34z"/>
+		</g>
+	</g>
+	<g id="POLYLINE_302_">
+		<line class="st37" x1="370.13" y1="337.91" x2="379.86" y2="337.91"/>
+	</g>
+	<g id="POLYLINE_301_">
+		<line class="st37" x1="365.54" y1="342.41" x2="384.44" y2="342.41"/>
+	</g>
+	<g id="POLYLINE_300_">
+		<line class="st37" x1="378.27" y1="337.91" x2="378.27" y2="342.41"/>
+	</g>
+	<g id="POLYLINE_299_">
+		<line class="st37" x1="371.72" y1="337.91" x2="371.72" y2="342.41"/>
+	</g>
+	<g id="POLYLINE_298_">
+		<line class="st37" x1="370.13" y1="342.41" x2="370.13" y2="333.42"/>
+	</g>
+	<g id="POLYLINE_297_">
+		<line class="st37" x1="379.86" y1="342.41" x2="379.86" y2="333.42"/>
+	</g>
+	<g id="POLYLINE_296_">
+		<path class="st26" d="M627.82,375c0.04-85.22-43.17-165.08-114.54-211.66c-62.21-40.7-139.76-51.92-210.95-30.5
+			c-69.73,20.87-127.46,71.29-157.52,137.59c-30.16,66.25-30.16,142.9,0,209.15c30.7,67.7,90.17,118.74,161.74,138.81
+			c70.06,19.76,145.82,8.13,206.73-31.73C584.64,540.08,627.86,460.22,627.82,375z"/>
+	</g>
+	<g id="POLYLINE_295_">
+		<line class="st37" x1="370.13" y1="412.09" x2="379.86" y2="412.09"/>
+	</g>
+	<g id="POLYLINE_294_">
+		<line class="st37" x1="370.13" y1="407.59" x2="379.86" y2="407.59"/>
+	</g>
+	<g id="POLYLINE_290_">
+		<line class="st37" x1="370.13" y1="412.09" x2="379.86" y2="412.09"/>
+	</g>
+	<g id="POLYLINE_224_">
+		<line class="st37" x1="379.86" y1="407.59" x2="379.86" y2="416.58"/>
+	</g>
+	<g id="POLYLINE_223_">
+		<line class="st37" x1="370.13" y1="407.59" x2="370.13" y2="416.58"/>
+	</g>
+	<g id="POLYLINE_222_">
+		<line class="st37" x1="371.72" y1="412.09" x2="371.72" y2="407.59"/>
+	</g>
+	<g id="POLYLINE_212_">
+		<line class="st37" x1="378.27" y1="412.09" x2="378.27" y2="407.59"/>
+	</g>
+	<g id="POLYLINE_9_">
+		<line class="st37" x1="365.54" y1="407.59" x2="384.44" y2="407.59"/>
+	</g>
+</g>
+<g id="_x32_D_x24_AG-OUTLINE">
+	<g id="POLYLINE_281_">
+		<path class="st35" d="M627.82,375c0.04,86.36-44.3,167.08-117.2,213.37c-61.74,39.31-138.05,49.88-208.15,28.84
+			c-70.84-21.15-129.21-72.72-158.92-140.42c-28.06-63.66-28.51-136.66-1.25-200.67c29.3-69.08,88.27-121.85,160.17-143.32
+			c70.1-21.04,146.41-10.47,208.15,28.84C583.52,207.92,627.86,288.64,627.82,375z"/>
+	</g>
+</g>
+</svg>

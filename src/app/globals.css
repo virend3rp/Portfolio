@@ -2,20 +2,175 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+body {
+  background-color: rgb(20, 20, 20);
+  margin: 0px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+#menu {  
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+#menu-items {
+  margin-left: clamp(4rem, 20vw, 48rem);
+  position: relative;
+  z-index: 2;
+}
+
+#menu[data-active-index="0"] > #menu-background-pattern {
+  background-position: 0% -25%;
+}
+
+#menu[data-active-index="1"] > #menu-background-pattern {
+  background-position: 0% -50%;
+}
+
+#menu[data-active-index="2"] > #menu-background-pattern {
+  background-position: 0% -75%;
+}
+
+#menu[data-active-index="3"] > #menu-background-pattern {
+  background-position: 0% -100%;
+}
+
+#menu[data-active-index="0"] > #menu-background-image {
+  background-position: center 45%;
+}
+
+#menu[data-active-index="1"] > #menu-background-image {
+  background-position: center 50%;
+}
+
+#menu[data-active-index="2"] > #menu-background-image {
+  background-position: center 55%;
+}
+
+#menu[data-active-index="3"] > #menu-background-image {
+  background-position: center 60%;
+}
+
+#menu-background-pattern {
+  background-image: radial-gradient(
+    rgba(255, 255, 255, 0.1) 9%, 
+    transparent 9%
+  );
+  background-position: 0% 0%;
+  background-size: 12vmin 12vmin;
+  height: 100vh;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  transition: opacity 800ms ease, 
+    background-size 800ms ease,
+    background-position 800ms ease;
+  width: 100vw;
+  z-index: 1;
+}
+
+#menu-background-image {
+  background-image: url("/1.png");
+  background-position: center 40%;
+  background-size: 110vmax;
+  height: 100%;
+  left: 0px;  
+  opacity: 0.15;
+  position: absolute;
+  top: 0px;
+  transition: opacity 800ms ease,
+    background-size 800ms ease,
+    background-position 800ms ease;
+  width: 100%;
+  z-index: 0;
+}
+
+#menu-items:hover ~ #menu-background-pattern {
+  background-size: 11vmin 11vmin;
+  opacity: 0.5;
+}
+
+#menu-items:hover ~ #menu-background-image {
+  background-size: 100vmax;
+  opacity: 0.1;
+}
+
+#menu-items:hover > .menu-item {
+  opacity: 0.3;
+}
+
+#menu-items:hover > .menu-item:hover {
+  color: greenyellow;
+  opacity: 1; 
+}
+
+.menu-item {
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: clamp(3rem, 8vw, 8rem);
+  padding: clamp(0.25rem, 0.5vw, 1rem) 0rem;
+  text-decoration: none;
+  transition: opacity 400ms ease;
+}
+
+/* Add this in your global styles (e.g., globals.css) */
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px); /* Adjust as per your requirement */
+  }
+  100% {
+    transform: translateY(0);
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.animate-float {
+  animation: float 2s ease-in-out infinite;
 }
+
+/* Glowing Cursor Tip */
+.cursor-glow {
+  position: fixed;
+  width: 10px;
+  height: 10px;
+  background-color: gold;
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.9), 
+              0 0 20px rgba(255, 215, 0, 0.6);
+  z-index: 9999;
+}
+
+/* Spark Particles */
+.spark {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  background-color: gold;
+  border-radius: 50%;
+  pointer-events: none;
+  animation: spark-animation 0.3s ease-out forwards;
+  z-index: 9998;
+}
+
+/* Spark Animation - Random Shooting */
+@keyframes spark-animation {
+  0% {
+    opacity: 1;
+    transform: translate(0, 0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(
+      calc(-10px + 20px * random()), 
+      calc(-10px + 20px * random())
+    ) scale(0.5);
+  }
+}
+
